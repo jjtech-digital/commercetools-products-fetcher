@@ -1,6 +1,6 @@
-## Fetching Products made easy
+# Fetching Products made easy
 
-#### Fetch all products from commercetools and convert it into csv file just by simple cli commands
+## Fetch all products from commercetools and convert it into csv file just by simple cli commands
 
 
 Step 1. Clone the project
