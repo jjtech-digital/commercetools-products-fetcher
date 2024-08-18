@@ -32,7 +32,7 @@ Step 5. For converting the fetched data, run this command in your terminal
 
          npm run convert
 
-         this will create a file called csv in .csv extension
+         this will create a file called csv-products in .csv extension
 Export this file or use it in any way you like.
 
 
