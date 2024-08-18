@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "export" : "node exportProduct.js",
-    "convert" : "node convertToCsv.js"
+    "export": "node exportProduct.js",
+    "convert": "node convertToCsv.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,6 @@
     "@commercetools/sdk-middleware-auth": "^7.0.1",
     "@commercetools/sdk-middleware-http": "^7.0.4",
     "dotenv": "^16.4.5",
-    "json2csv": "^6.0.0-alpha.2"
+    "json-2-csv": "^5.5.5"
   }
 }
