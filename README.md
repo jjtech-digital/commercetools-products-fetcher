@@ -53,7 +53,7 @@ Step 5. For pushing this data to google sheet, run this command in your terminal
          npm run push
 
          this will push all the products data inside productProjection in your google sheet, check your sheet for confirmation
-You will be able to see the progress of fetching in your terminal🚀
+You will be able to see the progress of data pushing in your terminal🚀
 
 
 Step 6. For converting the fetched data, run this command in your terminal 
