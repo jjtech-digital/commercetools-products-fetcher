@@ -5,7 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "export": "node exportProduct.js",
-    "convert": "node convertToCsv.js"
+    "convert": "node convertToCsv.js",
+    "push" : "node googleSheet.js"
   },
   "repository": {
     "type": "git",
@@ -23,7 +24,9 @@
     "@commercetools/sdk-client": "^3.0.0",
     "@commercetools/sdk-middleware-auth": "^7.0.1",
     "@commercetools/sdk-middleware-http": "^7.0.4",
+    "@google-cloud/local-auth": "^2.1.0",
     "dotenv": "^16.4.5",
+    "googleapis": "^105.0.0",
     "json-2-csv": "^5.5.5"
   }
 }
